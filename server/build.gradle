@@ -26,7 +26,8 @@ group = 'com.linecorp.line.auth.fido.fido2'
 version = '0.1.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
-jar.enabled = true
+jar.enabled = false
+bootJar.enabled = true
 
 repositories {
     mavenCentral()
